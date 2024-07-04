@@ -12,6 +12,13 @@ class SelectNextTest implements WithAssertions {
    *  `Lynx => Shark`
    *  `Dee => Doo`
    *
+   * Find and learn the shortcuts for
+   * - "Add selection for next occurrence"
+   * - "Unselect occurrence"
+   *
+   * Place the cursor on the first "Lynx" word and use the shortcut multiple times.
+   * When all words a selected you can edit them with multiple cursors.
+   *
    * Run the test and see it pass.
    */
   String actual = """

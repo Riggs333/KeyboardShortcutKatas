@@ -6,8 +6,9 @@ public class Navigation {
 
   public static void main(String[] args) {
     /*
-     Start here navigating through every function call using shortcuts,
-      read the sentence build by the method names along the way.
+     * Start here navigating through every method call or reference using shortcut "GoTo".
+     * Read the sentence that is made up by the names along the way.
+     * If you get lost or stuck use the shorcuts for "back" or "forward".
      */
     __.yesterday();
   }

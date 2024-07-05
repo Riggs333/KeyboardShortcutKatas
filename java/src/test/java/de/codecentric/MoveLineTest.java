@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
  * Run the test and see it failing.
  * <p>
  * Fix the test by editing the {@link #getNumbers()} method.
- * For this sort the lines by using only keyboard shortcuts for
+ * For this, sort the lines by using only keyboard shortcuts for
  * <ul>
  * <li> move statment up</li>
  * <li> move statment down</li>

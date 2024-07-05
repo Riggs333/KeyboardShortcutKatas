@@ -7,15 +7,18 @@ import org.junit.jupiter.api.Test;
 /**
  * Run the test to see it passing.
  *
- * Inline as much as you can using your IDE keyboard shortcuts.
+ * "Inline" as much as you can using your IDE keyboard shortcuts.
  * But do not delete the method "practice"!
  *
  * After each inline refactoring step, run the test.
  *
- * Also, use ALT + Enter a lot to let IntelliJ simplify code:
- * - remove unnecessary/dead code
- * - do calculations
- * - simplify code
+ * Also, use ALT + ENTER ("Show context actions") on warnings
+ * a lot to let IntelliJ simplify code, for example:
+ * <ul>
+ *  <li>remove unnecessary/dead code</li>
+ *  <li>do calculations</li>
+ *  <li>simplify boolean expression</li>
+ * </ul>
  *
  * Hint: When inlining a method, do not hesitate to let IntelliJ remove the method.
  *

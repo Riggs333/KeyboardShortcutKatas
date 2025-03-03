@@ -6,18 +6,19 @@ import org.assertj.core.api.WithAssertions;
 import org.junit.jupiter.api.Test;
 
 /**
- * <h1>Move Line</h1>
+ * <h1>Move Line(s)</h1>
  *
- * Run the test and see it failing.
+ * Run the test {@link #number_strings_are_in_their_numerical_order()} and see it failing.
  * <p>
- * Fix the test by editing the {@link #getNumbers()} method.
+ * Fix the test by editing the {@link #getNumbers()} method:
  * For this, sort the lines by using only keyboard shortcuts for
  * <ul>
- * <li> move statment up</li>
- * <li> move statment down</li>
+ *  <li>move statment up</li>
+ *  <li>move statment down</li>
  * </ul>
- * You do not need to select text for moving a line.
- * But you can move multiple lines at a time by extending the selection.
+ * Hint: You do not need to select text for moving a line.
+ * Instead, place the cursor on the line you want to move.
+ * You can move multiple lines at a time by extending the selection.
  */
 class MoveLineTest implements WithAssertions {
 

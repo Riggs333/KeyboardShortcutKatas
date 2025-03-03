@@ -1,0 +1,38 @@
+= ⌨️ KeyboardShortcutKatas for Java
+
+Katas to learn keyboarding skills, mainly with IntelliJ.
+
+== Instructions
+
+Each of the exercises linked below contain *instructions* inside some JavaDoc or comment.
+
+❌ Most exercises have a *test* that is *failing*.
+
+✔️ You have completed the exercise when the test *succeeds*.
+
+WARNING: You *must not change* the test methods.
+
+Rerun the test *regularly* while editing the solution.
+
+TIP: Find out the shortcut to "Run Test" and "Rerun Test".
+
+How to find out a shortcut?
+Use https://www.jetbrains.com/help/idea/searching-everywhere.html[Search Everywhere] (kbd:[Shift],kbd:[Shift]) or https://www.jetbrains.com/help/idea/searching-everywhere.html#find_action[Find Action].
+
+NOTE: There's more than one way to do it. :-)
+
+== Exercises
+
+* link:src/test/java/de/codecentric/MoveLineTest.java[Move Line]
+* link:src/test/java/de/codecentric/navigation/Navigation.java[Navigation]
+* link:src/test/java/de/codecentric/inline/InlineTest.java[Inline]
+* Multi Cursor / Colum Selection
+** link:src/test/java/de/codecentric/multicursor/ColumnSelectAddingTest.java[Adding Text]
+** link:src/test/java/de/codecentric/multicursor/ColumnSelectDeletingTest.java[Deleting Text]
+** link:src/test/java/de/codecentric/multicursor/SelectNextTest.java[Selecting Next]
+** link:src/test/java/de/codecentric/multicursor/WordSelectTest.java[Word Next]
+* link:src/test/java/de/codecentric/ExtendSelectionTest.java[Expand Selection]
+
+== Acknowledgements
+
+These exercises are inspired by and were initially invented by https://github.com/LearnWithLlew/KeyboardShortcutKatas.Net[LearnWithLlew] and https://github.com/emilybache/KeyboardShortcutKatas.Net[Emily Bache] added a few more.

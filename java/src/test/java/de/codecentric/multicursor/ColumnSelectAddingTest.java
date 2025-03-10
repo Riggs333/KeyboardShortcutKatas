@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 class ColumnSelectAddingTest implements WithAssertions {
 
-  /*
+  /**
    * Run the test and see it fail.
    * Create several cursors inside the "actual" string
    * using the "column selection mode".

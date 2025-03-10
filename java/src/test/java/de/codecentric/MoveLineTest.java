@@ -16,9 +16,12 @@ import org.junit.jupiter.api.Test;
  *  <li>move statment up</li>
  *  <li>move statment down</li>
  * </ul>
+ * <p>
  * Hint: You do not need to select text for moving a line.
  * Instead, place the cursor on the line you want to move.
  * You can move multiple lines at a time by extending the selection.
+ * <p>
+ * Also see <a href="https://www.jetbrains.com/guide/java/tips/move-line">Jetbrains Guide - Move Line</a>
  */
 class MoveLineTest implements WithAssertions {
 

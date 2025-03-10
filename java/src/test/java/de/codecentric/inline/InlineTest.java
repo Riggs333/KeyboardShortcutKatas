@@ -5,13 +5,13 @@ import org.assertj.core.api.WithAssertions;
 import org.junit.jupiter.api.Test;
 
 /**
- * Run the test to see it passing.
- *
+ * Run the test now to see it passing.
+ * <p>
  * "Inline" as much as you can using your IDE keyboard shortcuts.
  * But do not delete the method "practice"!
- *
+ * <p>
  * After each inline refactoring step, run the test.
- *
+ * <p>
  * Also, use ALT + ENTER ("Show context actions") on warnings
  * a lot to let IntelliJ simplify code, for example:
  * <ul>
@@ -21,8 +21,10 @@ import org.junit.jupiter.api.Test;
  * </ul>
  *
  * Hint: When inlining a method, do not hesitate to let IntelliJ remove the method.
- *
+ * <p>
  * Do not forget to run the test regularly to verify that you did not break anything.
+ * <p>
+ * See also <a href="https://www.jetbrains.com/help/idea/inline.html">Jetbrains Help - Inline</a>
  */
 class InlineTest implements WithAssertions {
 

@@ -5,20 +5,20 @@ import org.junit.jupiter.api.Test;
 
 class SelectNextTest implements WithAssertions {
 
-  /*
+  /**
    * Run the test and see it fail.
-   *
+   * <p>
    * Transform the words:
    *  `Lynx => Shark`
    *  `Dee => Doo`
-   *
+   * <p>
    * Find and learn the shortcuts for
    * - "Add selection for next occurrence"
    * - "Unselect occurrence"
-   *
+   * <p>
    * Place the cursor on the first "Lynx" word and use the shortcut multiple times.
-   * When all words a selected you can edit them with multiple cursors.
-   *
+   * When all words are selected you can edit them with multiple cursors.
+   * <p>
    * Run the test and see it pass.
    */
   String actual = """

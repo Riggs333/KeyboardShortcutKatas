@@ -5,12 +5,12 @@ import org.junit.jupiter.api.Test;
 
 class WordSelectTest implements WithAssertions {
 
-  /*
+  /**
    * Run the test and see it fail.
-   *
+   * <p>
    * Transform each line to this pattern:
    *  String apple = "apple";
-   *
+   * <p>
    * Note you can copy/paste columns of words.
    * Run the test to see it pass.
    */

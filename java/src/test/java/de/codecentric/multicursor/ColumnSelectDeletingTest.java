@@ -5,9 +5,9 @@ import org.junit.jupiter.api.Test;
 
 class ColumnSelectDeletingTest implements WithAssertions {
 
-  /*
+  /**
    * Run the test and see it fail.
-   *
+   * <p>
    * In each line: Delete the "j"s and the other two wrong characters that follow.
    * Run the test to see it pass.
    */

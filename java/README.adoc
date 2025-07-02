@@ -10,14 +10,19 @@ Each of the exercises linked below contain *instructions* inside some JavaDoc or
 
 ✔️ You have completed the exercise when the test *succeeds*.
 
-WARNING: You *must not change* the test methods.
+TIP: Rerun the test *regularly* while editing the solution.
+Find out the shortcut to "Run Test" and "Rerun Test".
 
-Rerun the test *regularly* while editing the solution.
+== How to find out a shortcut?
 
-TIP: Find out the shortcut to "Run Test" and "Rerun Test".
+=== IntelliJ
 
-How to find out a shortcut?
 Use https://www.jetbrains.com/help/idea/searching-everywhere.html[Search Everywhere] (kbd:[Shift],kbd:[Shift]) or https://www.jetbrains.com/help/idea/searching-everywhere.html#find_action[Find Action].
+
+=== Eclipse
+
+Use https://wiki.eclipse.org/Tip_of_the_Day/Eclipse_Tips/Quick_Access[Quick Access] (kbd:[Ctrl] + kbd:[3]) or
+https://eclipseide.org/getting-started/documents/eclipse-ide-keybindings.pdf[Eclipse IDE Keybindings PDF]
 
 NOTE: There's more than one way to do it. :-)
 

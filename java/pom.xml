@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Keyboard Shortcuts Kata</name>
   <properties>
-    <maven.compiler.source>22</maven.compiler.source>
+    <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>${maven.compiler.source}</maven.compiler.target>
   </properties>
 

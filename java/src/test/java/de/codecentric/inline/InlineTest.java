@@ -6,25 +6,32 @@ import org.junit.jupiter.api.Test;
 
 /**
  * Run the test now to see it passing.
- * <p>
- * "Inline" as much as you can using your IDE keyboard shortcuts.
- * But do not delete the method "practice"!
- * <p>
- * After each inline refactoring step, run the test.
- * <p>
- * Also, use ALT + ENTER ("Show context actions") on warnings
- * a lot to let IntelliJ simplify code, for example:
+ *
+ * <p>"Inline" as much as you can using your IDE keyboard shortcuts. But do not delete the method
+ * "practice"!
+ *
+ * <p>After each inline refactoring step, run the test.
+ *
+ * <p>Also, use Quick Fix (Eclipse, [Ctrl] + [1]) respectively "Show context actions" (IntelliJ,
+ * [Alt] + [Enter]) on code warnings a lot to let the IDE simplify code, for example:
+ *
  * <ul>
- *  <li>remove unnecessary/dead code</li>
- *  <li>do calculations</li>
- *  <li>simplify boolean expression</li>
+ *   <li>remove unnecessary/dead code
+ *   <li>do calculations (IntelliJ only)
+ *   <li>simplify expression
  * </ul>
  *
- * Hint: When inlining a method, do not hesitate to let IntelliJ remove the method.
- * <p>
- * Do not forget to run the test regularly to verify that you did not break anything.
- * <p>
- * See also <a href="https://www.jetbrains.com/help/idea/inline.html">Jetbrains Help - Inline</a>
+ * Hint: When inlining a method, do not hesitate to let the IDE automatically remove the method.
+ *
+ * <p>Do not forget to run the test regularly to verify that you did not break anything.
+ *
+ * <p>See also
+ *
+ * <ul>
+ *   <li>IntelliJ: <a href="https://www.jetbrains.com/help/idea/inline.html">Jetbrains Help -
+ *       Inline</a>
+ *   <li>Eclipse: <a href="https://www.baeldung.com/eclipse-refactoring">Refactoring in Eclipse</a>
+ * </ul>
  */
 class InlineTest implements WithAssertions {
 

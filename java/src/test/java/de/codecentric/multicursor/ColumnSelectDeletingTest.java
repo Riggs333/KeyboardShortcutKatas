@@ -7,11 +7,13 @@ class ColumnSelectDeletingTest implements WithAssertions {
 
   /**
    * Run the test and see it fail.
-   * <p>
-   * In each line: Delete the "j"s and the other two wrong characters that follow.
-   * Run the test to see it pass.
+   *
+   * <p>In each line of the "actual" string: Delete the wrong characters.
+   *
+   * <p>Run the test to see it pass.
    */
-  String actual = """
+  String actual =
+      """
       1 apjefple
       2 orj*!ange
       3 pej&Var
@@ -21,7 +23,8 @@ class ColumnSelectDeletingTest implements WithAssertions {
       7 drjlKagonfruit
       """;
 
-  String expected = """
+  String expected =
+      """
       1 apple
       2 orange
       3 pear

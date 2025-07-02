@@ -6,15 +6,16 @@ import org.junit.jupiter.api.Test;
 class WordSelectTest implements WithAssertions {
 
   /**
-   * Run the test and see it fail.
-   * <p>
-   * Transform each line to this pattern:
-   *  String apple = "apple";
-   * <p>
-   * Note you can copy/paste columns of words.
-   * Run the test to see it pass.
+   * Warning: This exercise only seems to work in IntelliJ.
+   *
+   * <p>Run the test and see it fail.
+   *
+   * <p>Transform each line to this pattern: <code>String apple = "apple"</code>;
+   *
+   * <p>Note you can copy/paste columns of words. Run the test to see it pass.
    */
-  String actual = """
+  String actual =
+      """
       1 apple
       2 orange
       3 pear
@@ -24,7 +25,8 @@ class WordSelectTest implements WithAssertions {
       7 dragonfruit
       """;
 
-  String expected = """
+  String expected =
+      """
       String apple = "apple";
       String orange = "orange";
       String pear = "pear";

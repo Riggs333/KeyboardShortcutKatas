@@ -48,6 +48,7 @@ NOTE: There's more than one way to do it. :-)
 ** link:src/test/java/de/codecentric/multicursor/SelectNextTest.java[Selecting Next] (IntelliJ only)
 ** link:src/test/java/de/codecentric/multicursor/WordSelectTest.java[Word Next] (IntelliJ only)
 * link:src/test/java/de/codecentric/ExtendSelectionTest.java[Expand Selection]
+* link:src/test/java/de/codecentric/changesignature/ChangeSignatureTest.java[Change Signature]
 
 == Acknowledgements
 

@@ -1,17 +1,28 @@
+:toc:
+:experimental:
+
 = ⌨️ KeyboardShortcutKatas for Java
 
-Katas to learn keyboarding skills, mainly with IntelliJ.
+Katas to learn keyboarding skills, mainly with IntelliJ and Eclipse. (The shortcuts presented are focused on Windows/Linux.)
 
 == Instructions
 
-Each of the exercises linked below contain *instructions* inside some JavaDoc or comment.
+Each of the exercises linked below contains *instructions* inside some JavaDoc or comment.
 
-❌ Most exercises have a *test* that is *failing*.
+❌ Some exercises have a *test* that initially *fails*.
 
 ✔️ You have completed the exercise when the test *succeeds*.
 
-TIP: Rerun the test *regularly* while editing the solution.
-Find out the shortcut to "Run Test" and "Rerun Test".
+TIP: Rerun the test *regularly* while editing your solution.
+
+Shortcut for *"Run Test"*:
+- Eclipse: [Alt] \+ [Shift] \+ [x], [t]
+- IntelliJ: [Ctrl] \+ [Shift] \+ [F10]
+
+Shortcut for *"Rerun Test"*:
+- Eclipse: [Ctrl] \+ [F11]
+- IntelliJ: [Ctrl] \+ [F5]
+
 
 == How to find out a shortcut?
 

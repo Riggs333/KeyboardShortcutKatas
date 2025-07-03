@@ -1,6 +1,6 @@
 package de.codecentric;
 
-public class ExtendSelectionTest {
+class ExtendSelectionTest {
 
   /**
    * Look up the shortcut for "Extend Selection" and "Shrink Selection".

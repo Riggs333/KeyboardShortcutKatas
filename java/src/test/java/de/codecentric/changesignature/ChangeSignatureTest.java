@@ -7,14 +7,15 @@ import org.junit.jupiter.api.Test;
 class ChangeSignatureTest {
 
   /**
-   * Run the test and see it failing.
+   * Run the test and see it passing.
    *
    * <p>Use the refactoring "Change Signature" on the method {@link #concat(String, String, String)}
-   * to fix the order of the parameters and make the test pass.
+   * to fix the order of the parameters.
+   * Recognize that the refactoring also checnages arguments of the method call accordingly.
    */
   @Test
   void concat_strings() {
-    String joined = concat("Dampf", "Schiff", "Fahrt");
+    String joined = concat("Fahrt", "Dampf", "Schiff");
 
     assertThat(joined).isEqualTo("Dampfschifffahrt");
   }

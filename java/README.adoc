@@ -16,23 +16,23 @@ Each of the exercises linked below contains *instructions* inside some JavaDoc o
 TIP: Rerun the test *regularly* while editing your solution.
 
 Shortcut for *"Run Test"*:
-- Eclipse: [Alt] \+ [Shift] \+ [x], [t]
-- IntelliJ: [Ctrl] \+ [Shift] \+ [F10]
+- Eclipse: [Alt] + [Shift] + [x], [t]
+- IntelliJ: [Ctrl] + [Shift] + [F10]
 
 Shortcut for *"Rerun Test"*:
-- Eclipse: [Ctrl] \+ [F11]
-- IntelliJ: [Ctrl] \+ [F5]
+- Eclipse: [Ctrl] + [F11]
+- IntelliJ: [Ctrl] + [F5]
 
 
 == How to find out a shortcut?
 
 === IntelliJ
 
-Use https://www.jetbrains.com/help/idea/searching-everywhere.html[Search Everywhere] (kbd:[Shift],kbd:[Shift]) or https://www.jetbrains.com/help/idea/searching-everywhere.html#find_action[Find Action].
+Use https://www.jetbrains.com/help/idea/searching-everywhere.html[Search Everywhere] ([Shift], [Shift]) or https://www.jetbrains.com/help/idea/searching-everywhere.html#find_action[Find Action].
 
 === Eclipse
 
-Use https://wiki.eclipse.org/Tip_of_the_Day/Eclipse_Tips/Quick_Access[Quick Access] (kbd:[Ctrl] + kbd:[3]) or
+Use https://wiki.eclipse.org/Tip_of_the_Day/Eclipse_Tips/Quick_Access[Quick Access] ([Ctrl] + [3]) or
 https://eclipseide.org/getting-started/documents/eclipse-ide-keybindings.pdf[Eclipse IDE Keybindings PDF]
 
 NOTE: There's more than one way to do it. :-)

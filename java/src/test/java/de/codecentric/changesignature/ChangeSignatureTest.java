@@ -11,7 +11,7 @@ class ChangeSignatureTest {
    *
    * <p>Use the refactoring "Change Signature" on the method {@link #concat(String, String, String)}
    * to fix the order of the parameters.
-   * Recognize that the refactoring also checnages arguments of the method call accordingly.
+   * Recognize that the refactoring also changes arguments of the method call accordingly.
    */
   @Test
   void concat_strings() {

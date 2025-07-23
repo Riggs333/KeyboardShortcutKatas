@@ -40,7 +40,7 @@ class ChangeSignatureTest {
     assertThat(joined).isEqualTo("one, two, three, four");
   }
 
-  private String joinWithCommaAndSpace(String second, String first, String third) {
+  private String joinWithCommaAndSpace(String first, String second, String third) {
     return String.join(", ", first, second, third);
   }
 }
